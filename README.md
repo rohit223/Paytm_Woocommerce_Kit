@@ -1,9 +1,9 @@
-# Woo-commerce Wordpress 4.x
+# WooCommerce WordPress 4.x
   
   1. Upload the latest version of WooCommerce plugin installed.
   2. Copy the folder named 'paytm' into the directory location /wp-content/plugins/. Or, you may choose to upload the paytm folder via the Woocommerce Admin panel.
   3. Activate the plugin through the left side 'Plugins' menu in WordPress.
-  4. Visit the Woo-Commerce => settings page, and click on the Checkout tab.
+  4. Visit the WooCommerce => settings page, and click on the Checkout tab.
   5. Scroll down the Checkout page and go to the setting option of paytm under "Gateway Display".
   6. Click on paytm to edit the settings. If you do not see paytm in the list at the top of the screen make sure you have activated the plugin in the WordPress Plugin Manager.
   7. Save the below configuration
@@ -28,7 +28,7 @@
       * Callback Url            - customized callback url(this is visible when Custom Callback Url is Enable)
       * Return Page             - My Account
 
-  10. Your Woo-commerce plug-in is now installed. You can accept payment through Paytm.
+  10. Your WooCommerce plug-in is now installed. You can accept payment through Paytm.
 
 See Video : https://www.youtube.com/watch?v=cqdhF-9ApzE
 
